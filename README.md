@@ -1,40 +1,40 @@
-# 👨‍💻 Bienvenido a mi GitHub
+#  Bienvenido a mi GitHub
 
 ¡Hola! Soy **Angel Daniel Lemus Quiroz**, estudiante de **Ingeniería en Tecnologías de la Información**.  
-Me apasiona el desarrollo de software, especialmente el **backend, bases de datos y desarrollo web** 🚀  
+Me apasiona el desarrollo de software, especialmente el **backend, bases de datos y desarrollo web**  
 
-En este perfil encontrarás proyectos académicos y personales donde aplico mis conocimientos, experimento con nuevas tecnologías y sigo aprendiendo constantemente 💡  
+En este perfil encontrarás proyectos académicos y personales donde aplico mis conocimientos, experimento con nuevas tecnologías y sigo aprendiendo constantemente 
 
 ---
 
-## 🛠 Tecnologías
+##  Tecnologías
 
-### 💻 Lenguajes
+###  Lenguajes
 - Java
 - C
 - Python
 - PHP
 - JavaScript
 
-### 🌐 Desarrollo Web
+###  Desarrollo Web
 - HTML
 - CSS
 - React
 - Laravel
 
-### 🗄 Bases de Datos
+###  Bases de Datos
 - MySQL
 
-### ⚙️ Herramientas
+###  Herramientas
 - Git
 - GitHub
 - VS Code
 
 ---
 
-## 📂 Proyectos Destacados
+##  Proyectos Destacados
 
-### 🔹 FlushMind
+###  FlushMind
 Sistema para evaluar niveles de depresión y dar seguimiento a pacientes.
 
 - Manejo de estructuras de datos y archivos  
@@ -44,7 +44,7 @@ Sistema para evaluar niveles de depresión y dar seguimiento a pacientes.
 
 ---
 
-### 🔹 BiblioOnline
+###  BiblioOnline
 Plataforma web desarrollada con arquitectura MVC.
 
 - PHP 8.2 + MySQL 8.0  
@@ -54,9 +54,9 @@ Plataforma web desarrollada con arquitectura MVC.
 
 ---
 
-## 💼 Experiencia
+##  Experiencia
 
-### 💻 Desarrollador Jr. (Proyectos Académicos)
+###  Desarrollador Jr. (Proyectos Académicos)
 - Levantamiento de requisitos con cliente  
 - Desarrollo backend y lógica del sistema  
 - Documentación técnica  
@@ -64,30 +64,30 @@ Plataforma web desarrollada con arquitectura MVC.
 
 ---
 
-## 🏆 Logros
+##  Logros
 
-🥈 **Hackathon Morelos 2023**  
+ **Hackathon Morelos 2023**  
 - Proyecto: *MotivIA* (Plataforma de aprendizaje con IA)  
 
-🥈 **Startup Weekend Morelos 2024**  
+ **Startup Weekend Morelos 2024**  
 - Desarrollo de solución tecnológica en equipo bajo metodología ágil  
 
 ---
 
-## 🌱 Sobre mí
+##  Sobre mí
 
-- ⭐ Interesado en backend y ciberseguridad  
-- 🌱 Actualmente aprendiendo y mejorando en desarrollo web  
-- 👯 Me gusta trabajar en equipo y colaborar en proyectos  
-- 🎯 Objetivo: Convertirme en desarrollador **Fullstack**  
-
----
-
-## 📫 Contacto
-
-📍 Cuernavaca, Morelos  
-📧 lemusq100@gmail.com  
+-  Interesado en backend y ciberseguridad  
+-  Actualmente aprendiendo y mejorando en desarrollo web  
+-  Me gusta trabajar en equipo y colaborar en proyectos  
+-  Objetivo: Convertirme en desarrollador **Fullstack**  
 
 ---
 
-✨ Gracias por visitar mi perfil
+##  Contacto
+
+ Cuernavaca, Morelos  
+ lemusq100@gmail.com  
+
+---
+
+ Gracias por visitar mi perfil
