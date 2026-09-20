@@ -1,6 +1,6 @@
 #  Bienvenido a mi GitHub
 
-¡Hola! Soy **Angel Daniel Lemus Quiroz**, estudiante de **Ingeniería en Tecnologías de la Información**.  
+¡Hola! Soy **Angel Daniel Lemus Quiroz**, **Ingeniero en Tecnologías de la Información**.  
 Me apasiona el desarrollo de software, especialmente el **backend, bases de datos y desarrollo web**  
 
 En este perfil encontrarás proyectos académicos y personales donde aplico mis conocimientos, experimento con nuevas tecnologías y sigo aprendiendo constantemente 
